@@ -80,6 +80,7 @@ main .main-right img{
     display: flex;
     gap: 1rem;
     padding: 4% ;
+    text-align: justify;
 }
 .mid .mid-container .mid-flex {
     line-height: 1.5rem;
@@ -115,6 +116,7 @@ main .main-right img{
 }
 .projects .project {
     display: flex;
+    text-align: justify;
 
 }
 
