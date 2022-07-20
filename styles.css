@@ -170,6 +170,16 @@ footer {
     color: lightgray;
     padding: 3% 0 2% 0;
 }
+footer .foot .img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+
+}
+footer .foot .img-container img {
+    width: 4%;
+}
 
 
 @media screen and (max-width: 500px) {
